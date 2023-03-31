@@ -1,1 +1,3 @@
 # PointOfSale
+
+# Project Documentation
