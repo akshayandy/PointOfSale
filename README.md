@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
+ <img width=500px height=200px src="POS.jpg" alt="Project logo"></a>
 </p>
 
 
@@ -88,11 +88,9 @@ This application does not require any live server. This is a local machhine appl
 - [Apache NetBeans](https://netbeans.apache.org/) - Apache NetBeans
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@SkillLymc](https://github.com/kylelobo) - FSD
+- [@akshayandy](https://github.com/akshayandy) - FSD
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- @Dj Oamen
