@@ -69,33 +69,23 @@ Click Finish.
 In my machine I've used Apache NetBeans version 16.
 
 ## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
+This project can be tested by simply clicking run. As this doesnot require any servers.
 
 ### Break down into end to end tests
-Explain what these tests test and why
+This tests are simply run and play with it.
 
 ```
-Give an example
-```
-
-### And coding style tests
-Explain what these tests test and why
-
-```
-Give an example
+Click run and test all the features.
 ```
 
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+After running the application. Add item by clicking the icons of items. User can see the total and sub total. Can change the payment method and can pay and print.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+This application does not require any live server. This is a local machhine application.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Apache NetBeans](https://netbeans.apache.org/) - Apache NetBeans
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@SkillLymc](https://github.com/kylelobo) - FSD
