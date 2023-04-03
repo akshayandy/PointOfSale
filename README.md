@@ -43,28 +43,30 @@ The point of sale (POS) application developed using Netbeans is a comprehensive 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-What things you need to install the software and how to install them.
+You need Apache Netbeans software to work on this project.
+Go to google and search,
 
 ```
-Give examples
+Apache NetBeans download, download the exe file.
 ```
 
 ### Installing
-A step by step series of examples that tell you how to get a development env running.
+After downloading run the exe file.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+The inatallation is simple and easy. same as eclipse.
 
 ```
-until finished
+After checking all the necessary tools are opted.Click install.
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
+After the progress is done to 100
+%
+
+```
+Click Finish.
+```
+
+In my machine I've used Apache NetBeans version 16.
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
