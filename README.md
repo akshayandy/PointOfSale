@@ -10,15 +10,6 @@
 
 <h3 align="center">Point of Sale</h3>
 
-<div align="center">
-
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/akshayandy/PointOfSale.svg)](https://github.com/akshayandy/PointOfSale/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/akshayandy/PointOfSale.svg)](https://github.com/akshayandy/PointOfSale/issues)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
-
 ---
 
 ## 📝 Table of Contents
